@@ -1,0 +1,15 @@
+{
+  "itemName" : "candysupport",
+  "price" : 0,
+  "category" : "block",
+  "rarity" : "Common",
+  "inventoryIcon" : "candysupport.png",
+  "description" : "Beams made from hardened striped sugar.",
+  "shortdescription" : "Candy Support Beams",
+  "glitchdescription" : "Confused. This is made of... sugar. Why?",
+  "florandescription" : "Floran wantsss to eat it.",
+  "novakiddescription" : "This ain't that good for holdin' up a house.",
+
+  "materialId" : 5857,
+  "learnBlueprintsOnPickup" : [ "candysupport" ]
+}

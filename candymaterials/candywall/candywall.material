@@ -1,0 +1,24 @@
+{
+  "materialId" : 5854,
+  "materialName" : "candywall",
+  "particleColor" : [178, 32, 66, 255],
+  "itemDrop" : "candywall",
+  "description" : "A wall made from hard rock candy.",
+  "shortdescription" : "Candy Wall",
+  "glitchdescription" : "Confused. What benefit could there be to making building materials from sugar?",
+  "florandescription" : "Floran thinksss it might be good to eat.",
+  "novakiddescription" : "It don't seem like it'd be that sturdy.",
+  "footstepSound" : "/sfx/blocks/footstep_wood.ogg",
+  "health" : 8,
+  "category" : "materials",
+
+  "renderTemplate" : "/tiles/classicmaterialtemplate.config",
+  "renderParameters" : {
+    "texture" : "candywall.png",
+    "variants" : 5,
+    "lightTransparent" : false,
+    "occludesBelow" : true,
+    "multiColored" : false,
+    "zLevel" : 1000
+  }
+}

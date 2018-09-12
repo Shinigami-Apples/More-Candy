@@ -1,0 +1,27 @@
+
+{
+  "materialId" : 5857,
+  "materialName" : "candysupport",
+  "frames" : "apexshipsupport.png",
+  "particleColor" : [178, 32, 66, 255],
+  "variants" : 1,
+  "itemDrop" : "candysupport",
+  "description" : "Beams made from hardened striped sugar.",
+  "shortdescription" : "Candy Support Beams",
+  "glitchdescription" : "Confused. This is made of... sugar. Why?",
+  "florandescription" : "Floran wantsss to eat it.",
+  "novakiddescription" : "This ain't that good for holdin' up a house.",
+  "footstepSound" : "/sfx/blocks/footstep_lightwood.ogg",
+  "health" : 8,
+  "category" : "materials",
+
+  "renderTemplate" : "/tiles/girdertemplate.config",
+  "renderParameters" : {
+    "texture" : "candysupport.png",
+    "variants" : 1,
+    "lightTransparent" : false,
+    "occludesBelow" : false,
+    "multiColored" : false,
+    "zLevel" : 3340
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "itemName" : "caramelfloor",
+  "price" : 0,
+  "category" : "block",
+  "rarity" : "Common",
+  "inventoryIcon" : "caramelflooricon.png",
+  "description" : "Flooring made from caramel and pastry.",
+  "shortdescription" : "Caramel Flooring",
+  "glitchDescription" : "Confused. Who would make flooring from such flimsy material?",
+  "floranDescription" : "Floran likesss the sssmell.",
+  "novakidDescription" : "Who thought this was a good idea?",
+
+  "materialId" : 5856,
+  "learnBlueprintsOnPickup" : [ "caramelfloor" ]
+}

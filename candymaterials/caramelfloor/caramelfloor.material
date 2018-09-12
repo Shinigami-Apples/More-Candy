@@ -1,0 +1,24 @@
+{
+  "materialId" : 5856,
+  "materialName" : "caramelfloor",
+  "particleColor" : [83, 57, 23, 255],
+  "itemDrop" : "caramelfloor",
+  "description" : "Flooring made from caramel and pastry.",
+  "shortdescription" : "Caramel Flooring",
+  "glitchDescription" : "Confused. Who would make flooring from such flimsy material?",
+  "floranDescription" : "Floran likesss the sssmell.",
+  "novakidDescription" : "Who thought this was a good idea?",
+  "footstepSound" : "/sfx/blocks/footstep_lightwood.ogg",
+  "health" : 8,
+  "category" : "materials",
+
+  "renderTemplate" : "/tiles/classicmaterialtemplate.config",
+  "renderParameters" : {
+    "texture" : "caramelfloor.png",
+    "variants" : 1,
+    "lightTransparent" : false,
+    "multiColored" : false,
+    "occludesBelow" : true,
+    "zLevel" : 3190
+  }
+}

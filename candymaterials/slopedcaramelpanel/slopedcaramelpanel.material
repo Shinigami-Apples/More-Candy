@@ -1,0 +1,24 @@
+{
+  "materialId" : 5853,
+  "materialName" : "slopedcaramelpanel",
+  "particleColor" : [110, 77, 33, 255],
+  "itemDrop" : "slopedcaramelpanel",
+  "description" : "A panel made from soft pastry and caramelised sugar.",
+  "shortdescription" : "Caramel Panel",
+  "glitchdescription" : "Confused. What benefit could there be to making building materials from sugar?",
+  "florandescription" : "Floran thinksss it might be good to eat.",
+  "novakiddescription" : "It don't seem like it'd be that sturdy.",
+  "footstepSound" : "/sfx/blocks/footstep_wood.ogg",
+  "health" : 4,
+  "category" : "materials",
+
+  "renderTemplate" : "/tiles/slopedmaterialtemplate.config",
+  "renderParameters" : {
+    "texture" : "slopedcaramelpanel.png",
+    "variants" : 1,
+    "lightTransparent" : false,
+    "occludesBelow" : false,
+    "multiColored" : false,
+    "zLevel" : 5002
+  }
+}

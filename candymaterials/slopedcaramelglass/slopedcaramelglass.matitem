@@ -1,0 +1,15 @@
+{
+  "itemName" : "slopedcaramelglass",
+  "price" : 0,
+  "category" : "block",
+  "rarity" : "Common",
+  "inventoryIcon" : "slopedcaramelglassicon.png",
+  "description" : "Glass made from caramelised sugar.",
+  "shortdescription" : "Caramel Glass",
+  "glitchdescription" : "Confused. What benefit could there be to making glass from sugar?",
+  "florandescription" : "Floran thinksss it might be good to eat.",
+  "novakiddescription" : "Ain't very good for lookin' through.",
+
+  "materialId" : 5852,
+  "learnBlueprintsOnPickup" : [ "slopedcaramelglass" ]
+}

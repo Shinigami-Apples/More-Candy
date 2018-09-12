@@ -1,0 +1,15 @@
+{
+  "itemName" : "slopedcandyglass",
+  "price" : 0,
+  "category" : "block",
+  "rarity" : "Common",
+  "inventoryIcon" : "slopedcandyglassicon.png",
+  "description" : "Striped glass made from coloured sugar.",
+  "shortdescription" : "Candy Glass",
+  "glitchdescription" : "Confused. What benefit could there be to making glass from sugar?",
+  "florandescription" : "Floran thinksss it might be good to eat.",
+  "novakiddescription" : "Ain't very good for lookin' through.",
+
+  "materialId" : 5851,
+  "learnBlueprintsOnPickup" : [ "slopedcandyglass" ]
+}

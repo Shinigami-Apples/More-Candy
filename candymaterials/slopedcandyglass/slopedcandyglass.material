@@ -1,0 +1,24 @@
+{
+  "materialId" : 5851,
+  "materialName" : "slopedcandyglass",
+  "particleColor" : [178, 32, 66, 255],
+  "itemDrop" : "slopedcandyglass",
+  "description" : "Striped glass made from coloured sugar.",
+  "shortdescription" : "Candy Glass",
+  "glitchdescription" : "Confused. What benefit could there be to making glass from sugar?",
+  "florandescription" : "Floran thinksss it might be good to eat.",
+  "novakiddescription" : "Ain't very good for lookin' through.",
+  "footstepSound" : "/sfx/blocks/footstep_glass.ogg",
+  "health" : 4,
+  "category" : "materials",
+
+  "renderTemplate" : "/tiles/slopedmaterialtemplate.config",
+  "renderParameters" : {
+    "texture" : "slopedcandyglass.png",
+    "variants" : 1,
+    "lightTransparent" : true,
+    "occludesBelow" : false,
+    "multiColored" : false,
+    "zLevel" : 470
+  }
+}
