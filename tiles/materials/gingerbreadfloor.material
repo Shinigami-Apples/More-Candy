@@ -1,0 +1,24 @@
+{
+  "materialId" : 5858,
+  "materialName" : "gingerbreadfloor",
+  "particleColor" : [127, 82, 28, 255],
+  "itemDrop" : "gingerbreadfloor",
+  "description" : "Flooring made from gingerbread and topped with frosting.",
+  "shortdescription" : "Gingerbread Flooring",
+  "glitchDescription" : "Confused. Who would make flooring from such flimsy material?",
+  "floranDescription" : "Floran likesss the sssmell.",
+  "novakidDescription" : "Who thought this was a good idea?",
+  "footstepSound" : "/sfx/blocks/footstep_dirt.ogg",
+  "health" : 8,
+  "category" : "materials",
+
+  "renderTemplate" : "/tiles/classicmaterialtemplate.config",
+  "renderParameters" : {
+    "texture" : "gingerbreadfloor.png",
+    "variants" : 5,
+    "lightTransparent" : false,
+    "multiColored" : false,
+    "occludesBelow" : true,
+    "zLevel" : 3190
+  }
+}

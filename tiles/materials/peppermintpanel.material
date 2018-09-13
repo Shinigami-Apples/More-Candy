@@ -1,0 +1,24 @@
+{
+  "materialId" : 5860,
+  "materialName" : "peppermintpanel",
+  "particleColor" : [115, 231, 191, 255],
+  "itemDrop" : "peppermintpanel",
+  "description" : "Striped panels made from hard rock candy.",
+  "shortdescription" : "Peppermint Panel",
+  "glitchdescription" : "Confused. What benefit could there be to making building materials from sugar?",
+  "florandescription" : "Floran thinksss it might be good to eat.",
+  "novakiddescription" : "It don't seem like it'd be that sturdy.",
+  "footstepSound" : "/sfx/blocks/footstep_wood.ogg",
+  "health" : 8,
+  "category" : "materials",
+
+  "renderTemplate" : "/tiles/classicmaterialtemplate.config",
+  "renderParameters" : {
+    "texture" : "peppermintpanel.png",
+    "variants" : 5,
+    "lightTransparent" : false,
+    "occludesBelow" : true,
+    "multiColored" : false,
+    "zLevel" : 1000
+  }
+}

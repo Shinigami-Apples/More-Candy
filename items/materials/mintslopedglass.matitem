@@ -1,0 +1,15 @@
+{
+  "itemName" : "mintslopedglass",
+  "price" : 0,
+  "category" : "block",
+  "rarity" : "Common",
+  "inventoryIcon" : "mintslopedglassicon.png",
+  "description" : "Glass made from coloured sugar.",
+  "shortdescription" : "Peppermint Glass",
+  "glitchdescription" : "Confused. What benefit could there be to making glass from sugar?",
+  "florandescription" : "Floran thinksss it might be good to eat.",
+  "novakiddescription" : "Ain't very good for lookin' through.",
+
+  "materialId" : 5861,
+  "learnBlueprintsOnPickup" : [ "mintslopedglass" ]
+}

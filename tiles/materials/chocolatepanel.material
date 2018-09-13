@@ -1,0 +1,24 @@
+{
+  "materialId" : 5862,
+  "materialName" : "chocolatepanel",
+  "particleColor" : [92, 46, 28, 255],
+  "itemDrop" : "chocolatepanel",
+  "description" : "Panels made from milk chocolate.",
+  "shortdescription" : "Chocolate Panel",
+  "glitchdescription" : "Confused. What benefit could there be to making building materials from chocolate?",
+  "florandescription" : "Floran thinksss it might be good to eat.",
+  "novakiddescription" : "It don't seem like it'd be that sturdy.",
+  "footstepSound" : "/sfx/blocks/footstep_wood.ogg",
+  "health" : 8,
+  "category" : "materials",
+
+  "renderTemplate" : "/tiles/classicmaterialtemplate.config",
+  "renderParameters" : {
+    "texture" : "chocolatepanel.png",
+    "variants" : 5,
+    "lightTransparent" : false,
+    "occludesBelow" : true,
+    "multiColored" : false,
+    "zLevel" : 1000
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "materialId" : 5861,
+  "materialName" : "mintslopedglass",
+  "particleColor" : [115, 231, 191, 184],
+  "itemDrop" : "mintslopedglass",
+  "description" : "Glass made from coloured sugar.",
+  "shortdescription" : "Peppermint Glass",
+  "glitchdescription" : "Confused. What benefit could there be to making glass from sugar?",
+  "florandescription" : "Floran thinksss it might be good to eat.",
+  "novakiddescription" : "Ain't very good for lookin' through.",
+  "footstepSound" : "/sfx/blocks/footstep_glass.ogg",
+  "health" : 4,
+  "category" : "materials",
+
+  "renderTemplate" : "/tiles/slopedmaterialtemplate.config",
+  "renderParameters" : {
+    "texture" : "mintslopedglass.png",
+    "variants" : 1,
+    "lightTransparent" : true,
+    "occludesBelow" : false,
+    "multiColored" : false,
+    "zLevel" : 470
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "itemName" : "candypanel",
+  "price" : 0,
+  "category" : "block",
+  "rarity" : "Common",
+  "inventoryIcon" : "candypanelicon.png",
+  "description" : "Striped panels made from hard rock candy.",
+  "shortdescription" : "Candy Panel",
+  "glitchdescription" : "Confused. What benefit could there be to making building materials from sugar?",
+  "florandescription" : "Floran thinksss it might be good to eat.",
+  "novakiddescription" : "It don't seem like it'd be that sturdy.",
+
+  "materialId" : 5859,
+  "learnBlueprintsOnPickup" : [ "candypanel" ]
+}

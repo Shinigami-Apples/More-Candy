@@ -1,0 +1,15 @@
+{
+  "itemName" : "gingerbreadfloor",
+  "price" : 0,
+  "category" : "block",
+  "rarity" : "Common",
+  "inventoryIcon" : "gingerbreadflooricon.png",
+  "description" : "Flooring made from gingerbread and topped with frosting.",
+  "shortdescription" : "Gingerbread Flooring",
+  "glitchDescription" : "Confused. Who would make flooring from such flimsy material?",
+  "floranDescription" : "Floran likesss the sssmell.",
+  "novakidDescription" : "Who thought this was a good idea?",
+
+  "materialId" : 5858,
+  "learnBlueprintsOnPickup" : [ "gingerbreadfloor" ]
+}

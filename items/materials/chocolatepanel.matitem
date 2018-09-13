@@ -1,0 +1,15 @@
+{
+  "itemName" : "chocolatepanel",
+  "price" : 0,
+  "category" : "block",
+  "rarity" : "Common",
+  "inventoryIcon" : "chocolatepanelicon.png",
+  "description" : "Panels made from milk chocolate.",
+  "shortdescription" : "Chocolate Panel",
+  "glitchdescription" : "Confused. What benefit could there be to making building materials from chocolate?",
+  "florandescription" : "Floran thinksss it might be good to eat.",
+  "novakiddescription" : "It don't seem like it'd be that sturdy.",
+
+  "materialId" : 5862,
+  "learnBlueprintsOnPickup" : [ "chocolatepanel" ]
+}
