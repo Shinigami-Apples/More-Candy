@@ -1,0 +1,15 @@
+{
+  "itemName" : "rainbowslopedglass",
+  "price" : 0,
+  "category" : "block",
+  "rarity" : "Common",
+  "inventoryIcon" : "rainbowslopedglassicon.png",
+  "description" : "Sugar glass stained with the colours of the rainbow.",
+  "shortdescription" : "Rainbow Candy Glass",
+  "glitchdescription" : "Happy. This is pleasant to look at.",
+  "florandescription" : "Floran likesss the pretty glasss.",
+  "novakiddescription" : "Ain't good for lookin' through, but it's mighty purty.",
+
+  "materialId" : 5863,
+  "learnBlueprintsOnPickup" : [ "rainbowslopedglass" ]
+}

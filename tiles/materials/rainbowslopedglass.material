@@ -1,0 +1,24 @@
+{
+  "materialId" : 5863,
+  "materialName" : "rainbowslopedglass",
+  "particleColor" : [183, 43, 43, 184],
+  "itemDrop" : "rainbowslopedglass",
+  "description" : "Sugar glass stained with the colours of the rainbow.",
+  "shortdescription" : "Rainbow Candy Glass",
+  "glitchdescription" : "Happy. This is pleasant to look at.",
+  "florandescription" : "Floran likesss the pretty glasss.",
+  "novakiddescription" : "Ain't good for lookin' through, but it's mighty purty.",
+  "footstepSound" : "/sfx/blocks/footstep_glass.ogg",
+  "health" : 4,
+  "category" : "materials",
+
+  "renderTemplate" : "/tiles/slopedmaterialtemplate.config",
+  "renderParameters" : {
+    "texture" : "rainbowslopedglass.png",
+    "variants" : 1,
+    "lightTransparent" : true,
+    "occludesBelow" : false,
+    "multiColored" : false,
+    "zLevel" : 470
+  }
+}
